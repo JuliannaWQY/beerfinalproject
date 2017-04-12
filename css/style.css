@@ -124,20 +124,20 @@ img:hover {
 
 #home {
     background: url("https://s22.postimg.org/jw17tds6p/beerbottles.jpg")no-repeat;
-    background-size: cover;
+    background-size: initial;
     background-position: center;
     min-height: 900px;
-    padding-top: 220px;
+    padding-top: 320px;
     padding-bottom: 100px;
 }
 
 #home h1 {
-    color: #f2af00;
     font-weight: 300;
     padding-bottom: 10px;
 }
 
 #home h2 {
+    color: #f2af00;
     line-height: 10px;
 }
 
