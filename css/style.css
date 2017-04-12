@@ -124,7 +124,7 @@ img:hover {
 
 #home {
     background: url("https://s22.postimg.org/jw17tds6p/beerbottles.jpg")no-repeat;
-    background-size: initial;
+    background-size: cover;
     background-position: center;
     min-height: 900px;
     padding-top: 320px;
